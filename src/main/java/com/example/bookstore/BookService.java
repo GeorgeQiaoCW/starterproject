@@ -1,2 +1,5 @@
-package com.example.bookstore;public class BookService {
+package com.example.bookstore;
+
+public class BookService {
+
 }
